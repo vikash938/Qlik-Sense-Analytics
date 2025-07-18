@@ -1,19 +1,25 @@
-#E-Commerce 360-Degree Analysis
+# E-Commerce 360-Degree Analysis
+
 In today’s fast-moving e-commerce landscape, data is more than just numbers—it's the foundation for every smart decision. 
 I’ve built a comprehensive dashboards that together form a full-stack analytics solution for e-commerce businesses.
 Each dashboard is designed to answer a specific set of questions—from sales performance and profitability to inventory health and fulfillment efficiency. Here's a deep dive into what they do and how they work together:
+
 📊 1. Executive Sales Performance
 A real-time dashboard showing daily sales, profit, and order volume. Includes product subcategory breakdowns, sales type analysis, and geographic distribution. 
 Use Case: Quick decision-making for executives and sales leads.
+
 📈 2. Business Impacts
 Multi-year view of sales vs targets, currency distribution, and inventory trends. Highlights top-performing products and tracks overstock/out-of-stock patterns. 
 Use Case: Strategic planning and global performance reviews.
+
 🎯 3. Sales / Profit Performance
 Interactive scatter plots showing product-level profitability and order volume. Includes top 15 products and top 10 cities by sales. 
 Use Case: Product portfolio optimization and regional strategy.
+
 🌍 4. Global Sales Comparison
 Side-by-side charts comparing sales by country and product category. Reveals market dominance and product popularity across regions. 
 Use Case: Market expansion and product positioning.
+
 🔄 5. What-If Simulation
 Dynamic sliders for price and discount modeling. Simulates impact on sales and profit with real-time feedback. Use Case: Pricing strategy and revenue forecasting.
 📅 6. Sales vs Target Tracker
